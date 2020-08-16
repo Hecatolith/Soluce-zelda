@@ -4,39 +4,37 @@
 
 ### Coeur de la Forêt
 
-* [ ] Là où se trouve le Goron qui te parle de ces cubes
+* [x] Là où se trouve le Goron qui te parle de ces cubes
     * coffre sur l'île aux Citrouilles, près de la statue
         * poche supplémentaire
-* [ ] Près de l'entrée du Temple de la Contemplation
+* [x] Près de l'entrée du Temple de la Contemplation
     * coffre sur une petite île tout au sud du faisceau vert
         * Fragment de coeur
 * [ ] [Grappin nécessaire] Va sur la droite du Temple de la Contemplation, utilise le Grappin sur le lierre sur une "fenêtre", puis sur un autre lierre pour trouver le cube
     * coffre sur l'île de Terry accessible uniquement de nuit
         * médaille rubis
-* [ ] 
 
 ### Temple de la Contemplation
 
-* [ ] Dans la dernière salle, juste avant de quitter le temple, regarde derrière la statue de la Déesse
+* [x] Dans la dernière salle, juste avant de quitter le temple, regarde derrière la statue de la Déesse
     * coffre sur l'île aux Citrouilles, sur l'avant-toit
         * 300 rubis
 
 ### Forêt de Firone
 
-* [ ] [Écaille du Dragon d'Eau nécessaire] À l'ouest du grand arbre, sur une grosse racine. Monte au premier niveau de l'arbre, puis saute vers cette grosse branche
+* [x] [Écaille du Dragon d'Eau nécessaire] À l'ouest du grand arbre, sur une grosse racine. Monte au premier niveau de l'arbre, puis saute vers cette grosse branche
     * coffre sur Célesbourg, sur l'îlot au sud-ouest
         * 100 rubis
-* [ ] [Écaille du Dragon d'Eau nécessaire] Au nord-est du grand arbre, grimpe au sommet de l'arbre, puis quand tu sors après avoir battu le Moblin, avance jusqu'à la grande branche qui pointe vers le nord, suspends-toi et déplace-toi jusqu'à voir juste sous toi une plate-forme (pas loin du Vénérable). Alors lâche-toi et traverse sur la corde vers le cube
+* [x] [Écaille du Dragon d'Eau nécessaire] Au nord-est du grand arbre, grimpe au sommet de l'arbre, puis quand tu sors après avoir battu le Moblin, avance jusqu'à la grande branche qui pointe vers le nord, suspends-toi et déplace-toi jusqu'à voir juste sous toi une plate-forme (pas loin du Vénérable). Alors lâche-toi et traverse sur la corde vers le cube
     * coffre sur une petite île au nord-est de l'Ile aux Chants
         * médaille rubis
-* [ ] [Écaille du Dragon d'Eau nécessaire, Grappin utile mais pas nécessaire] Au sud-est du grand arbre, utilise le Grappin sur la cible pour te tracter tout près. Mais il est également possible de monter au sommet de l'arbre et de se passer du Grappin
-        * Monte jusqu'après avoir battu le Moblin, avance jusqu'au côté est, repère le cube en bas, suspends-toi, place-toi bien au centre de la grosse branche, lâche-toi puis avance prudemment !
+* [ ] [Écaille du Dragon d'Eau nécessaire, Grappin utile mais pas nécessaire] Au sud-est du grand arbre, utilise le Grappin sur la cible pour te tracter tout près. Mais il est également possible de monter au sommet de l'arbre et de se passer du Grappin : Monte jusqu'après avoir battu le Moblin, avance jusqu'au côté est, repère le cube en bas, suspends-toi, place-toi bien au centre de la grosse branche, lâche-toi puis avance prudemment !
     * coffre sur une petite île à l'est du passage pour Lanelle, dans sa partie intérieure, accessible avec le Grappin ou en faisant de la chute libre
         * fragment de coeur
 
 ### Lac Faroria
 
-* [ ] Sur le chemin menant au Dragon d'Eau, là où il faut franchir des barreaux avec un saut tourbillon
+* [x] Sur le chemin menant au Dragon d'Eau, là où il faut franchir des barreaux avec un saut tourbillon
     * coffre sur Célesbourg, sur l'îlot tout à l'est, saute depuis le sommet de la cascade
         * 300 rubis
 
@@ -88,7 +86,7 @@ Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia
 
 ### Mines de Lanelle
 
-* [ ] En arrivant aux Mines de Lanelle, regarde derrière la grande tour
+* [x] En arrivant aux Mines de Lanelle, regarde derrière la grande tour
     * coffre sur une petite île tout à l'est du faisceau rouge, atterris sur la partie inférieure et fais exploser la paroi
         * 100 rubis
 

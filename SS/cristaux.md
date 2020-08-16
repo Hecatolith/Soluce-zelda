@@ -25,8 +25,8 @@ Tous les cristaux de gratitude ne sont visibles que de nuit !
 
 ### Ile aux Citrouilles
 
-* [ ] Dans la Citrouille Perchée, regarde sur un meuble au 1er étage
-* [ ] Dehors, va dans la réserve à droite du champ de citrouilles et regarde sur les étagères
+* [x] Dans la Citrouille Perchée, regarde sur un meuble au 1er étage
+* [x] Dehors, va dans la réserve à droite du champ de citrouilles et regarde sur les étagères
 
 ### Ile de Terry
 
@@ -44,7 +44,7 @@ Après avoir retrouvé Nacia, sur la Grand-Place de Célesbourg, parle à l'homm
 
 [Jarre Magique nécessaire] Dans la maison de Kiko (quartier résidentiel), parle à sa mère qui a besoin d'aide pour faire le ménage. Accepte de l'aider et utilise la Jarre Magique pour aspirer toute la poussière sur le sol, les lits, les étagères et les rebords de fenêtres. Reparle-lui pour recevoir 20 rubis et 5 cristaux de gratitude.
 
-* [ ] Histoire de papier...
+* [x] Histoire de papier...
 
 Après être retourné une 2ème fois dans le Vallon du Sceau, de nuit, retourne à l'Ecole de Chevalerie et va aux toilettes. Tu entends une voix étrange... Examine la porte pour l'entendre demander du papier. Va dormir jusqu'au matin, puis parle à Orbo près de la porte d'entrée, qui te demande de remettre une lettre à Grida. Il te confie la Lettre d'Orbo.
 
