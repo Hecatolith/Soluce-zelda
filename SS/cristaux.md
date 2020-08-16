@@ -2,7 +2,7 @@
 
 Cette quête secondaire débute lorsqu'en ressortant de la Statue de la Déesse pour la 2ème fois, tu rencontres la mère de Nacia qui cherche sa petite fille. Accepte de l'aider, puis descends les deux escaliers et va à gauche. Reparle au petit garçon qui pense au cimetière. Traverse le pont à l'est qui mène au quartier résidentiel, puis va à droite et parle à la jeune fille aux tresses. Elle dit qu'un vieux monsieur raconte qu'un monstre vit ici. Cet homme se trouve à la Citrouille Perchée, sur une île à l'est d'ici. Rejoins une plate-forme d'envol, élance-toi puis appelle ton Célestrier. Vole vers le sud-est et lâche-toi quand tu survoles une île de taille moyenne.
 Entre dans la Citrouille Perchée et parle au vieux monsieur. Demande-lui plus d'infos pour qu'il raconte que de nuit, dans le cimetière, il a vu un monstre heurter une pierre tombale près de l'arbre, puis la pousser. Quitte l'île et retourne à Célesbourg.
-Il faut maintenant qu'il fasse nuit. Entre dans une maison et approche-toi du lit. Choisis de dormir jusqu'à la nuit ! Quitte ensuite la maison et va au cimetière se trouvant tout à l'est de l'île, après le quartier résidentiel. Comme l'a dit le vieux, percute la pierre se trouvant près de l'arbre, puis déplace-la : La porte de la grange s'ouvre ! Entre et descends la grande échelle. Marche sur les planches, tu entends un cri ! Entre dans la cabane, puis attaque le monstre... qui n'en est pas vraiment un :-) Ce gentil démon se nomme Morcego, il te parle de Cristaux de gratitude  qui apparaissent lorsqu'un humain est heureux. Accepte de l'aider à collecter ces cristaux pour qu'il devienne humain et il te donne la capacité de voir ces cristaux. Pour en obtenir, il faut rendre service à des personnes, mais tu peux aussi en trouver là où des gens ont été très reconnaissants. Parle à la petite Nacia, puis sors et retourne au cimetière. Entre dans une maison et dors jusqu'au matin. Sors, traverse le pont et entre dans la maison à droite, chez Nacia. Parle à sa mère, ce qui te permet de recevoir 5 cristaux de gratitude ! Rends une nouvelle visite à Morcego et donne-lui les cristaux, il te remercie avec une Bourse moyenne!
+Il faut maintenant qu'il fasse nuit. Entre dans une maison et approche-toi du lit. Choisis de dormir jusqu'à la nuit ! Quitte ensuite la maison et va au cimetière se trouvant tout à l'est de l'île, après le quartier résidentiel. Comme l'a dit le vieux, percute la pierre se trouvant près de l'arbre, puis déplace-la : La porte de la grange s'ouvre ! Entre et descends la grande échelle. Marche sur les planches, tu entends un cri ! Entre dans la cabane, puis attaque le monstre... qui n'en est pas vraiment un :-) Ce gentil démon se nomme Morcego, il te parle de Cristaux de gratitude qui apparaissent lorsqu'un humain est heureux. Accepte de l'aider à collecter ces cristaux pour qu'il devienne humain et il te donne la capacité de voir ces cristaux. Pour en obtenir, il faut rendre service à des personnes, mais tu peux aussi en trouver là où des gens ont été très reconnaissants. Parle à la petite Nacia, puis sors et retourne au cimetière. Entre dans une maison et dors jusqu'au matin. Sors, traverse le pont et entre dans la maison à droite, chez Nacia. Parle à sa mère, ce qui te permet de recevoir 5 cristaux de gratitude ! Rends une nouvelle visite à Morcego et donne-lui les cristaux, il te remercie avec une Bourse moyenne!
 
 ## Emplacement de cristaux de gratitude isolés
 
@@ -12,7 +12,7 @@ Tous les cristaux de gratitude ne sont visibles que de nuit !
 
 * [x] Dans la chambre de Link
 * [ ] [Grappin nécessaire] Dans la chambre de Zelda
-* [x] Dans l'Ecole de Chevalerie, juste à côté de la porte d'entrée au premier étage
+* [x] Dans l'École de Chevalerie, juste à côté de la porte d'entrée au premier étage
 * [x] Dans la Salle d'Escrime, entre les poutres du plafond (utilise le Scarabée)
 * [x] Dans la maison d'Hiron et Kinaé
 * [x] Dans la partie sud-ouest du bourg, saute sur un bout de terre en contrebas, non loin de la maison d'Hiron et Kinaé
@@ -34,13 +34,13 @@ Tous les cristaux de gratitude ne sont visibles que de nuit !
 
 ## Cristaux de gratitude pour services rendus
 
-* [ ] Accident de célestrier
+* [x] Accident de célestrier
 
 Après avoir retrouvé Nacia, sur la Grand-Place de Célesbourg, parle à l'homme qui est inquiet pour sa soeur partie avec son célestrier en direction de l'Ile Roulette au sud-ouest. Accepte de l'aider, puis vole vers le sud-ouest en direction de l'Ile Roulette. Un peu avant d'atteindre cette île, tu vois un oiseau couché sur une petite île. Atterris à cet endroit et parle à la jeune fille brune : Son célestrier est blessé et ne peut plus bouger, il a besoin d'une potion spéciale pour oiseaux. Accepte de l'aider, puis elle dit que son frère te donnera le remède. Retourne à Célesbourg, sur la grand-place et parle à son frère Hiron, qui te remet des spores de champignon  dans un flacon si ta sacoche n'est pas pleine. Si elle l'est, va au Marché Couvert et parle à la jeune fille de la Consigne pour lui laisser un objet. Repars vers la petite île et parle à Kinaé pour lui donner le remède. En remerciement tu reçois 5 cristaux de gratitude. Retourne à Célesbourg et parle à Hiron pour obtenir 5 autres cristaux de gratitude !
 
-A noter que si on parle à Kinaé en ayant déjà des spores scintillants sur soi, elle les remarque et les accepte ; on a donc pas besoin de reparler à Hiron. Par contre il faut quand même reparler à son frère après avoir donné les spores pour recevoir les 5 cristaux de sa part, ainsi que le flacon vide.
+À noter que si on parle à Kinaé en ayant déjà des spores scintillants sur soi, elle les remarque et les accepte ; on a donc pas besoin de reparler à Hiron. Par contre il faut quand même reparler à son frère après avoir donné les spores pour recevoir les 5 cristaux de sa part, ainsi que le flacon vide.
 
-* [ ] Link, homme de ménage
+* [x] Link, homme de ménage
 
 [Jarre Magique nécessaire] Dans la maison de Kiko (quartier résidentiel), parle à sa mère qui a besoin d'aide pour faire le ménage. Accepte de l'aider et utilise la Jarre Magique pour aspirer toute la poussière sur le sol, les lits, les étagères et les rebords de fenêtres. Reparle-lui pour recevoir 20 rubis et 5 cristaux de gratitude.
 
@@ -75,7 +75,7 @@ Voici une super astuce de Shiva si on n'est pas très doué avec les vols en chu
 
 * [ ] Célestin veut devenir fort
 
-Après avoir fini la Raffinerie de Lanelle, de nuit, retourne à l'Ecole de Chevalerie et entre dans la chambre de Célestin à côté de la tienne. Il est en train de faire des pompes péniblement car il cherche à se muscler. Parle-lui, il compte 5-6-7... et dit qu'il a besoin de quelque chose pour augmenter son endurance. Dors dans son lit jusqu'au matin. Va au Marché Couvert et achète de la potion Endurol pour 50 rubis, puis retourne dans la chambre de Célestin et dors dans son lit jusqu'à la nuit. Parle-lui alors qu'il fait toujours de l'exercice et accepte de lui donner l'Endurol.
+Après avoir fini la Raffinerie de Lanelle, de nuit, retourne à l'École de Chevalerie et entre dans la chambre de Célestin à côté de la tienne. Il est en train de faire des pompes péniblement car il cherche à se muscler. Parle-lui, il compte 5-6-7... et dit qu'il a besoin de quelque chose pour augmenter son endurance. Dors dans son lit jusqu'au matin. Va au Marché Couvert et achète de la potion Endurol pour 50 rubis, puis retourne dans la chambre de Célestin et dors dans son lit jusqu'à la nuit. Parle-lui alors qu'il fait toujours de l'exercice et accepte de lui donner l'Endurol.
 Après l'avoir encouragé et après avoir terminé la Grande Caverne Antique (si c'est déjà fait, dors simplement à nouveau dans son lit jusqu'au matin), repars au Marché Couvert pour racheter de la potion Endurol, puis retourne dans la chambre de Célestin et dors dans son lit jusqu'à la nuit. Parle-lui alors qu'il compte 55-56-57... et donne-lui une autre ration d'Endurol. Il veut encore progresser...
 Après avoir terminé le Galion des Sables, retourne dans sa chambre pendant la nuit. Parle-lui, cette fois il compte 3985... ! En récompense, tu reçois 5 cristaux de gratitude !
 
@@ -91,8 +91,8 @@ Après avoir visité le Temple d'Hylia, va au bar du Marché Couvert et parle au
 
 Apparemment pas nécessaire : Va dans la Boutique de Terry et couche-toi sur son lit. Tu te retrouves alors sur une petite île tout au nord-est sur la carte du ciel. Parle deux fois à Terry près du feu pour qu'il te parle de son "Golofa Demonicus Rex" qu'il admire tant. Retourne dormir dans son lit et de jour, parle-lui dans sa montgolfière.
 
-Après avoir rencontré Narisha et être retourné sur Célesbourg (ou ailleurs), envole-toi vers le Cumunolimbus et vers l'Ile aux Insectes au sud-ouest de l'Ile aux Chants. Va du côté ouest et parle à Latruche, sans avoir besoin de participer à son jeu.
-A Célesbourg, va dans la Boutique de Terry et dors (à nouveau) jusqu'à la nuit pour le retrouver sur son île et cette fois, il t'apprend que sa cage a disparu avec son insecte rare ! Propose de l'aider, dors jusqu'au matin, puis envole-toi vers le Cumunolimbus et vers l'Ile aux Insectes au sud-ouest de l'Ile aux Chants. Reparle à Latruche, tout content d'avoir trouvé un insecte rare. Après lui avoir appris qu'il appartient à Terry, il hésite à le rendre et te propose un défi (en plus de payer 10 rubis). Tu dois trouver 10 insectes de son choix en moins de 3 minutes. Relève le défi, cherche partout même à l'intérieur des pots, puis Latruche accepte de te rendre le "Golofa Demonicus Rex" dans sa cage. Repars à Célesbourg, entre dans la Boutique de Terry, dors jusqu'à la nuit, puis donne-lui la cage pour recevoir 5 cristaux de gratitude. En remerciement il vend à moitié prix le prochain article que tu achètes.
+Après avoir rencontré Narisha et être retourné sur Célesbourg (ou ailleurs), envole-toi vers le Cumulonimbus et vers l'Ile aux Insectes au sud-ouest de l'Ile aux Chants. Va du côté ouest et parle à Latruche, sans avoir besoin de participer à son jeu.
+A Célesbourg, va dans la Boutique de Terry et dors (à nouveau) jusqu'à la nuit pour le retrouver sur son île et cette fois, il t'apprend que sa cage a disparu avec son insecte rare ! Propose de l'aider, dors jusqu'au matin, puis envole-toi vers le Cumulonimbus et vers l'Ile aux Insectes au sud-ouest de l'Ile aux Chants. Reparle à Latruche, tout content d'avoir trouvé un insecte rare. Après lui avoir appris qu'il appartient à Terry, il hésite à le rendre et te propose un défi (en plus de payer 10 rubis). Tu dois trouver 10 insectes de son choix en moins de 3 minutes. Relève le défi, cherche partout même à l'intérieur des pots, puis Latruche accepte de te rendre le "Golofa Demonicus Rex" dans sa cage. Repars à Célesbourg, entre dans la Boutique de Terry, dors jusqu'à la nuit, puis donne-lui la cage pour recevoir 5 cristaux de gratitude. En remerciement il vend à moitié prix le prochain article que tu achètes.
 
 * [ ] Le passionné de plantes rares
 
@@ -100,9 +100,9 @@ Après avoir rencontré Narisha, entre dans la chambre de Maître Arfan à l'Eco
 
 # Récompenses de Morcego
 
-* [ ] 5 : Bourse Moyenne
-* [ ] 15 : Fragment de Coeur
-* [ ] 30 : Grande Bourse + Médaille démoniaque
+* [x] 5 : Bourse Moyenne
+* [x] 15 : Fragment de Coeur
+* [x] 30 : Grande Bourse + Médaille démoniaque
 * [ ] 40 : Rubis doré
 * [ ] 50 : Bourse énorme
 * [ ] 70 : 2 rubis dorés
