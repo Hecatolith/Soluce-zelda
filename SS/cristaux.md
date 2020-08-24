@@ -11,7 +11,7 @@ Tous les cristaux de gratitude ne sont visibles que de nuit !
 ### Célesbourg
 
 * [x] Dans la chambre de Link
-* [ ] [Grappin nécessaire] Dans la chambre de Zelda
+* [x] [Grappin nécessaire] Dans la chambre de Zelda
 * [x] Dans l'École de Chevalerie, juste à côté de la porte d'entrée au premier étage
 * [x] Dans la Salle d'Escrime, entre les poutres du plafond (utilise le Scarabée)
 * [x] Dans la maison d'Hiron et Kinaé
@@ -19,7 +19,7 @@ Tous les cristaux de gratitude ne sont visibles que de nuit !
 * [x] Sur la couronne de la Tour de Lumière
 * [x] Au nord du Marché Couvert, sur le chemin fait de planches en bois
 * [x] Derrière un arbre près du champ de citrouilles
-* [ ] [Grappin nécessaire] Près de l'entrée de la Grotte de la Cascade, agrippe le lierre sur la petite île en hauteur, puis agrippe le lierre sur une île encore plus haut d'où part la cascade. Attrape le Cristal de Gratitude au-dessus de l'eau grâce au Scarabée
+* [x] [Grappin nécessaire] Près de l'entrée de la Grotte de la Cascade, agrippe le lierre sur la petite île en hauteur, puis agrippe le lierre sur une île encore plus haut d'où part la cascade. Attrape le Cristal de Gratitude au-dessus de l'eau grâce au Scarabée
 * [x] Traverse la Grotte de la Cascade et regarde à gauche juste en sortant
 * [x] Traverse la Grotte de la Cascade et regarde là où était prisonnier ton célestrier
 
@@ -53,7 +53,7 @@ Plus tard, reviens dans la salle de classe et assieds-toi sur un banc pour enten
 
 Version glauque : Retourne dormir dans un lit et de nuit, rends-toi à nouveau aux toilettes et ouvre la porte. Une main sort de la cuvette ! Donne-lui la lettre d'Orbo, puis retourne te coucher. De jour, parle à Orbo pour le mettre au courant, il s'en va très fâché et malheureux. Une nouvelle fois dors jusqu'à la nuit, entre dans la chambre d'Hergo et approche-toi du lit. Orbo dort tandis que la main, tombée amoureuse de lui, le caresse ! "En récompense", tu reçois 5 cristaux de gratitude.
 
-* [ ] Chasse à la roulette
+* [x] Chasse à la roulette
 
 Après avoir réparé Récupix : Rends-toi sur cette île au sud-ouest de Célesbourg et parle au clown qui a perdu sa roulette tombée sous les nuages. Dis que tu vas l'aider et Fay ajoute l'objet à la fonction Détection. Envole-toi vers l'Entrée du Désert de Lanelle, frappe le chronolithe, puis grimpe au lierre à droite, accroche-toi au rebord de la paroi, avance à gauche et trouve la roulette au bout du chemin. Examine l'objet et demande à Fay d'appeler Récupix pour qu'il vienne le chercher. Envole-toi vers l'Ile Roulette et rends la roulette à son propriétaire qui te remercie et ouvre son attraction. En récompense, tu reçois 5 cristaux de gratitude !
 
@@ -67,7 +67,7 @@ Version "prince charmant" : Parle à Pavelle. Réponds "Tu me plais", "non", "bi
 
 Version "gros rustre" : Parle à Pavelle et dis "Tu travailles bien", "Tu es la fille de la consigne", que tu n'as pas de sentiments pour elle. Après qu'elle ait dit qu'elle a le coeur brisé, reviens la nuit suivante ou entre dans la tente sur l'Ile aux Bambous et reparle à son père. Il est fou de joie, bien débarrassé du prétendu copain. Tu reçois 5 cristaux de gratitude.
 
-* [ ] Le bébé pleure...
+* [x] Le bébé pleure...
 
 [Grappin nécessaire] Au Marché Couvert, parle à Darin, le père de famille qui améliore les potions, il se plaint d'être fatigué et de mal dormir la nuit. De nuit, entre dans sa maison dans le quartier résidentiel (à gauche après le pont) et reparle-lui. Il dit qu'il ne peut pas dormir à cause du bébé qui ne cesse de pleurer, ceci parce que son hochet a été emporté probablement par un oiseau. De jour (c'est plus facile), rends-toi au sommet de la cascade et avance jusqu'à la Pierre à Potins qui te défie d'atterrir dans le nid sur la tour en sautant d'ici. Saute donc dans le vide en chute libre pour atterrir en face dans le nid d'oiseau, puis utilise la Jarre Magique pour trouver le hochet ! Retourne chez Darin, dors jusqu'à la nuit et rends le hochet au papa. Le bébé ne pleure plus, il va s'endormir ! Tu reçois 5 cristaux de gratitude.
 
@@ -103,7 +103,7 @@ Après avoir rencontré Narisha, entre dans la chambre de Maître Arfan à l'Eco
 * [x] 5 : Bourse Moyenne
 * [x] 15 : Fragment de Coeur
 * [x] 30 : Grande Bourse + Médaille démoniaque
-* [ ] 40 : Rubis doré
+* [x] 40 : Rubis doré
 * [ ] 50 : Bourse énorme
 * [ ] 70 : 2 rubis dorés
 * [ ] 80 : bourse de star

@@ -92,13 +92,13 @@ Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia
 
 ### Désert de Lanelle
 
-* [ ] Dans la partie ouest, dans une zone de sables mouvants avec des Crustaroules.
+* [x] Dans la partie ouest, dans une zone de sables mouvants avec des Crustaroules.
     * coffre sur une petite île à l'est du passage pour Lanelle, sur la partie extérieure de l'île
         * médaille coeur
-* [ ] [Grappin nécessaire] Dans la partie nord, dans le coin nord-est. Retourne dans le passage où tu as trouvé un Fragment de Coeur , traverse-le, puis utilise le Grappin sur la cible, puis sur les suivantes jusqu'à la fin du couloir. Lâche-toi, avance et utilise encore le Grappin sur la cible plus loin
+* [x] [Grappin nécessaire] Dans la partie nord, dans le coin nord-est. Retourne dans le passage où tu as trouvé un Fragment de Coeur , traverse-le, puis utilise le Grappin sur la cible, puis sur les suivantes jusqu'à la fin du couloir. Lâche-toi, avance et utilise encore le Grappin sur la cible plus loin
     * coffre sur une petite île au nord-ouest de l'Ile de Terry, plonge dans le passage aquatique
         * médaille coeur
-* [ ] [Grappin nécessaire] Dans la partie nord, va au sud-ouest de la raffinerie, utilise le Grappin sur la cible contre le mur (au-dessus d'une statue avec un bol), puis avance sur le mur à gauche
+* [x] [Grappin nécessaire] Dans la partie nord, va au sud-ouest de la raffinerie, utilise le Grappin sur la cible contre le mur (au-dessus d'une statue avec un bol), puis avance sur le mur à gauche
     * coffre sur une petite île au nord-ouest de l'Ile Roulette
         * médaille de vie
 
@@ -109,7 +109,7 @@ Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia
 
 ### Mer de Sable
 
-* [ ] Au Port Ancien, là où tu peux embarquer la première fois, grimpe sur les caisses à droite, tire le Grappin sur la cible pour en atteindre d'autres, puis entre dans la grotte
+* [x] Au Port Ancien, là où tu peux embarquer la première fois, grimpe sur les caisses à droite, tire le Grappin sur la cible pour en atteindre d'autres, puis entre dans la grotte
     * coffre sur Célesbourg, dans le Marché couvert
         * 300 rubis
 
