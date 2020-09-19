@@ -115,13 +115,13 @@ Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia
 
 ### Maison du Capitaine
 
-* [ ] Dans l'ouest de la région, au sommet d'un pilier. Rends-toi sur la partie où il y a un Moblin avec un bouclier de fer, et plus loin une Quadribaba, puis depuis là, utilise le Grappin sur le lierre blanc au sud-ouest, puis sur celui sur le pilier contenant le cube
+* [x] Dans l'ouest de la région, au sommet d'un pilier. Rends-toi sur la partie où il y a un Moblin avec un bouclier de fer, et plus loin une Quadribaba, puis depuis là, utilise le Grappin sur le lierre blanc au sud-ouest, puis sur celui sur le pilier contenant le cube
     * coffre sur une petite île au nord-ouest de l'Ile Roulette, derrière la grille
         * médaille de durabilité
 
 ### Repaire Pirate
 
-* [ ] Après avoir réussi le Repaire Pirate, place-toi face au repaire, utilise le Grappin sur la cible au-dessus de la grande porte, puis sur celle derrière toi pour atteindre le cube
+* [x] Après avoir réussi le Repaire Pirate, place-toi face au repaire, utilise le Grappin sur la cible au-dessus de la grande porte, puis sur celle derrière toi pour atteindre le cube
     * coffre sur Célesbourg, au haut de la cascade
         * fragment de coeur
 
