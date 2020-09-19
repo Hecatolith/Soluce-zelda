@@ -57,7 +57,7 @@ Version glauque : Retourne dormir dans un lit et de nuit, rends-toi à nouveau a
 
 Après avoir réparé Récupix : Rends-toi sur cette île au sud-ouest de Célesbourg et parle au clown qui a perdu sa roulette tombée sous les nuages. Dis que tu vas l'aider et Fay ajoute l'objet à la fonction Détection. Envole-toi vers l'Entrée du Désert de Lanelle, frappe le chronolithe, puis grimpe au lierre à droite, accroche-toi au rebord de la paroi, avance à gauche et trouve la roulette au bout du chemin. Examine l'objet et demande à Fay d'appeler Récupix pour qu'il vienne le chercher. Envole-toi vers l'Ile Roulette et rends la roulette à son propriétaire qui te remercie et ouvre son attraction. En récompense, tu reçois 5 cristaux de gratitude !
 
-* [ ] Link, séducteur malgré lui
+* [x] Link, séducteur malgré lui
 
 Rends-toi sur l'Ile aux Bambous ou la nuit chez Pavelle et parle avec son père. Celui-ci dit de ne pas faire copain-copain avec sa fille et de ne pas la reluquer. Rends-toi ensuite au Marché Couvert et parle à sa fille à la consigne. La demoiselle est toute contente, t'appelle "mon chéri" et dit d'autres choses gentilles.
 
@@ -73,7 +73,7 @@ Version "gros rustre" : Parle à Pavelle et dis "Tu travailles bien", "Tu es la 
 
 Voici une super astuce de Shiva si on n'est pas très doué avec les vols en chute libre : Place-toi près du moulin et lorsque la montgolfière de Terry est toute proche, arrête-la à cet endroit, saisis la corde, puis avance au plus près du nid d'oiseau. Utilise la Jarre Magique sur le nid, puis lance le Scarabée pour récupérer le hochet !
 
-* [ ] Célestin veut devenir fort
+* [x] Célestin veut devenir fort
 
 Après avoir fini la Raffinerie de Lanelle, de nuit, retourne à l'École de Chevalerie et entre dans la chambre de Célestin à côté de la tienne. Il est en train de faire des pompes péniblement car il cherche à se muscler. Parle-lui, il compte 5-6-7... et dit qu'il a besoin de quelque chose pour augmenter son endurance. Dors dans son lit jusqu'au matin. Va au Marché Couvert et achète de la potion Endurol pour 50 rubis, puis retourne dans la chambre de Célestin et dors dans son lit jusqu'à la nuit. Parle-lui alors qu'il fait toujours de l'exercice et accepte de lui donner l'Endurol.
 Après l'avoir encouragé et après avoir terminé la Grande Caverne Antique (si c'est déjà fait, dors simplement à nouveau dans son lit jusqu'au matin), repars au Marché Couvert pour racheter de la potion Endurol, puis retourne dans la chambre de Célestin et dors dans son lit jusqu'à la nuit. Parle-lui alors qu'il compte 55-56-57... et donne-lui une autre ration d'Endurol. Il veut encore progresser...

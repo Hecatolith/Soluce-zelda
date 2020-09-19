@@ -10,7 +10,7 @@
 * [x] Près de l'entrée du Temple de la Contemplation
     * coffre sur une petite île tout au sud du faisceau vert
         * Fragment de coeur
-* [ ] [Grappin nécessaire] Va sur la droite du Temple de la Contemplation, utilise le Grappin sur le lierre sur une "fenêtre", puis sur un autre lierre pour trouver le cube
+* [x] [Grappin nécessaire] Va sur la droite du Temple de la Contemplation, utilise le Grappin sur le lierre sur une "fenêtre", puis sur un autre lierre pour trouver le cube
     * coffre sur l'île de Terry accessible uniquement de nuit
         * médaille rubis
 
@@ -28,7 +28,7 @@
 * [x] [Écaille du Dragon d'Eau nécessaire] Au nord-est du grand arbre, grimpe au sommet de l'arbre, puis quand tu sors après avoir battu le Moblin, avance jusqu'à la grande branche qui pointe vers le nord, suspends-toi et déplace-toi jusqu'à voir juste sous toi une plate-forme (pas loin du Vénérable). Alors lâche-toi et traverse sur la corde vers le cube
     * coffre sur une petite île au nord-est de l'Ile aux Chants
         * médaille rubis
-* [ ] [Écaille du Dragon d'Eau nécessaire, Grappin utile mais pas nécessaire] Au sud-est du grand arbre, utilise le Grappin sur la cible pour te tracter tout près. Mais il est également possible de monter au sommet de l'arbre et de se passer du Grappin : Monte jusqu'après avoir battu le Moblin, avance jusqu'au côté est, repère le cube en bas, suspends-toi, place-toi bien au centre de la grosse branche, lâche-toi puis avance prudemment !
+* [x] [Écaille du Dragon d'Eau nécessaire, Grappin utile mais pas nécessaire] Au sud-est du grand arbre, utilise le Grappin sur la cible pour te tracter tout près. Mais il est également possible de monter au sommet de l'arbre et de se passer du Grappin : Monte jusqu'après avoir battu le Moblin, avance jusqu'au côté est, repère le cube en bas, suspends-toi, place-toi bien au centre de la grosse branche, lâche-toi puis avance prudemment !
     * coffre sur une petite île à l'est du passage pour Lanelle, dans sa partie intérieure, accessible avec le Grappin ou en faisant de la chute libre
         * fragment de coeur
 
@@ -39,7 +39,7 @@
         * 300 rubis
 
 ### Cascade de Faroria
-* [ ] [Grappin nécessaire] Près de la Statue d'Oiseau, utilise le Grappin sur le lierre très en hauteur, puis avance à gauche
+* [x] [Grappin nécessaire] Près de la Statue d'Oiseau, utilise le Grappin sur le lierre très en hauteur, puis avance à gauche
     * coffre sur l'île Roulette, au-dessous de l'île
         * 300 rubis
 
@@ -70,10 +70,10 @@ Après avoir révélé le jet de vapeur, prends une fleur-bombe, va sur le geyse
 
 ### Sommet du Volcan
 
-* [ ] Depuis la petite chute d'eau, tourne-toi, avance en face sur le "balcon", puis saute en chute libre pour atteindre un pilier plat caché derrière un grand pilier devant toi (tu peux utiliser la détection) et atterris près du cube (il faut légèrement pencher la Wiimote vers l'avant pour "avancer" et plutôt contourner le pilier par la droite).
+* [x] Depuis la petite chute d'eau, tourne-toi, avance en face sur le "balcon", puis saute en chute libre pour atteindre un pilier plat caché derrière un grand pilier devant toi (tu peux utiliser la détection) et atterris près du cube (il faut légèrement pencher la Wiimote vers l'avant pour "avancer" et plutôt contourner le pilier par la droite).
     * coffre sur l'île aux Insectes
         * fragment de coeur
-* [ ] Devant l'entrée du temple, va à gauche, monte sur le rebord de la fenêtre, puis utilise le Grappin sur le lierre. Grimpe sur le pilier, puis sur le suivant et attaque ou fais tomber le Lézalfos, avant d'agripper le lierre encore plus loin.
+* [x] Devant l'entrée du temple, va à gauche, monte sur le rebord de la fenêtre, puis utilise le Grappin sur le lierre. Grimpe sur le pilier, puis sur le suivant et attaque ou fais tomber le Lézalfos, avant d'agripper le lierre encore plus loin.
     * coffre sur l'Ile aux Chants, au haut de la tour
         * petit sac de bombes
 * [ ] [Après la quête de la récupération des objets ou même après le Temple Hylia] Dans la grotte à droite en arrivant au sommet du volcan, saute sur un morceau de lave et exécute l'Eclat Céleste en visant le cube.
@@ -103,7 +103,7 @@ Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia
         * médaille de vie
 
 ### Gorges du Désert
-* [ ] Dans la partie nord, pendant le trajet dans le wagon, exécute un Eclat Céleste
+* [x] Dans la partie nord, pendant le trajet dans le wagon, exécute un Eclat Céleste
     * coffre sur l'île de Terry (tout à l'est de l'île aux Bambous)
         * fragment de coeur
 
