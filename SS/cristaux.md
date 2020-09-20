@@ -30,7 +30,7 @@ Tous les cristaux de gratitude ne sont visibles que de nuit !
 
 ### Ile de Terry
 
-* [ ] Regarde l'hélice au-dessus de sa montgolfière et lance le Scarabée pour récupérer le cristal
+* [x] Regarde l'hélice au-dessus de sa montgolfière et lance le Scarabée pour récupérer le cristal
 
 ## Cristaux de gratitude pour services rendus
 
@@ -79,11 +79,11 @@ Après avoir fini la Raffinerie de Lanelle, de nuit, retourne à l'École de Che
 Après l'avoir encouragé et après avoir terminé la Grande Caverne Antique (si c'est déjà fait, dors simplement à nouveau dans son lit jusqu'au matin), repars au Marché Couvert pour racheter de la potion Endurol, puis retourne dans la chambre de Célestin et dors dans son lit jusqu'à la nuit. Parle-lui alors qu'il compte 55-56-57... et donne-lui une autre ration d'Endurol. Il veut encore progresser...
 Après avoir terminé le Galion des Sables, retourne dans sa chambre pendant la nuit. Parle-lui, cette fois il compte 3985... ! En récompense, tu reçois 5 cristaux de gratitude !
 
-* [ ] Le job idéal !
+* [x] Le job idéal !
 
 Après avoir exécuté les 3 missions du patron du bar et avoir fini le Grand Sanctuaire Ancien, reparle à la jeune Tironne (de jour). Elle dit qu'il faut maintenant planter de nouvelles citrouilles mais pour cela il faut d'abord labourer la terre et elle a besoin d'un spécialiste. Dis que tu connais quelqu'un et Fay apparaît pour ajouter cette personne à la fonction Détection. Envole-toi maintenant vers le faisceau rouge et choisis d'atterrir au "Pied du Volcan, Est". Avance vers la grotte des Mogmas un peu plus au nord, avance sur le jet de vapeur pour te retrouver à l'intérieur, puis saute en chute libre. Pendant la chute, dirige-toi vers la droite sur une partie surélevée où se trouve un vieux Mogma barbu, Aurélio. Parle-lui et propose-lui le job idéal ! Fay appelle Récupix pour emmener le Mogma dans le ciel. Saute à droite, avance dans le grand jet de vapeur, puis rejoins la Statue d'Oiseau pour t'envoler. Repars vers l'Ile aux Citrouilles, puis retourne auprès de Tironne. Récupix dépose le vieux Mogma qui n'est pas très enthousiaste de prime abord, mais Tironne est enchantée par ses coups de griffe, à tel point que tu reçois 5 cristaux de gratitude.
 
-* [ ] Pétronus a perdu la boule ^^
+* [x] Pétronus a perdu la boule ^^
 
 Après avoir visité le Temple d'Hylia, va au bar du Marché Couvert et parle au client qui dit que le diseur de bonne aventure doit se lamenter chez lui. Va rendre visite à Pétronus tout à l'est dans le quartier résidentiel et parle-lui. Sa boule de cristal s'est brisée, il ne peut plus prédire l'avenir. Il ajoute qu'elle vient de la Terre - d'un bâtiment au sommet d'une montagne - et te demande d'en trouver une autre. Accepte de l'aider, puis rends-toi à Ordinn, devant le Temple de la Terre, et regarde au-dessus de l'entrée. Utilise le Grappin sur la cible à gauche, puis examine la boule. Fay appelle Récupix qui repart avec l'objet. Repars chez Pétronus où le robot dépose la boule. Pétronus va pouvoir reprendre le travail et tu reçois 5 cristaux de gratitude.
 
@@ -104,6 +104,6 @@ Après avoir rencontré Narisha, entre dans la chambre de Maître Arfan à l'Eco
 * [x] 15 : Fragment de Coeur
 * [x] 30 : Grande Bourse + Médaille démoniaque
 * [x] 40 : Rubis doré
-* [ ] 50 : Bourse énorme
+* [x] 50 : Bourse énorme
 * [ ] 70 : 2 rubis dorés
 * [ ] 80 : bourse de star

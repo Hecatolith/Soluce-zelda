@@ -47,22 +47,22 @@
 
 ### Volcan d'Ordinn
 
-* [ ] En arrivant dans cette région la toute première fois, avance vers la Statue d'Oiseau "Entrée du Volcan", puis saute juste plus bas à gauche.
+* [x] En arrivant dans cette région la toute première fois, avance vers la Statue d'Oiseau "Entrée du Volcan", puis saute juste plus bas à gauche.
     * coffre sur une petite île au nord-ouest de l'île Roulette
         * petit sac de graines
-* [ ] Après avoir trouvé la Vieille Statue "Pied du Volcan - Est", continue tout droit jusqu'au bout du chemin.
+* [x] Après avoir trouvé la Vieille Statue "Pied du Volcan - Est", continue tout droit jusqu'au bout du chemin.
     * coffre sur une petite île à l'est de l'Ile aux Bambous, atterris au sommet
         * 100 rubis
-* [ ] Utilise le jet de vapeur qui permet d'atteindre le sommet de la grotte des Mogmas, puis saute en chute libre et atterris près du cube, légèrement en avant et vers la droite depuis le point de chute.
+* [x] Utilise le jet de vapeur qui permet d'atteindre le sommet de la grotte des Mogmas, puis saute en chute libre et atterris près du cube, légèrement en avant et vers la droite depuis le point de chute.
     * coffre sur l'Ile aux Chants, côté nord
         * 300 rubis
-* [ ] Depuis le camp des Bokoblins près du Temple de la Terre, descends le petit chemin au sud-est du camp (tout près du camp).
+* [x] Depuis le camp des Bokoblins près du Temple de la Terre, descends le petit chemin au sud-est du camp (tout près du camp).
     * coffre sur une petite île tout à l'est du faisceau rouge, atterris au sommet
         * médaille trésor
-* [ ] Depuis l'édifice tout au nord-est de cette région, saute dans le tunnel, tiens ta gauche, vise le jet de vapeur de gauche, puis saute avec de l'élan vers le cube juste en dessous.
+* [x] Depuis l'édifice tout au nord-est de cette région, saute dans le tunnel, tiens ta gauche, vise le jet de vapeur de gauche, puis saute avec de l'élan vers le cube juste en dessous.
     * coffre sur Célesbourg dans le moulin à vent, via le passage sous l'eau
         * fragment de coeur
-* [ ] [Bombes nécessaires] Depuis le Temple de la Terre (en sortant) va tout à droite, creuse le sol pour révéler un jet de vapeur, vole plus haut, puis fais exploser les rochers qui cachent le cube.
+* [x] [Bombes nécessaires] Depuis le Temple de la Terre (en sortant) va tout à droite, creuse le sol pour révéler un jet de vapeur, vole plus haut, puis fais exploser les rochers qui cachent le cube.
 OU mieux ! sans bombes
 Après avoir révélé le jet de vapeur, prends une fleur-bombe, va sur le geyser avec et fais exploser les rochers !
     * coffre sur l'île aux Bambous
@@ -76,7 +76,7 @@ Après avoir révélé le jet de vapeur, prends une fleur-bombe, va sur le geyse
 * [x] Devant l'entrée du temple, va à gauche, monte sur le rebord de la fenêtre, puis utilise le Grappin sur le lierre. Grimpe sur le pilier, puis sur le suivant et attaque ou fais tomber le Lézalfos, avant d'agripper le lierre encore plus loin.
     * coffre sur l'Ile aux Chants, au haut de la tour
         * petit sac de bombes
-* [ ] [Après la quête de la récupération des objets ou même après le Temple Hylia] Dans la grotte à droite en arrivant au sommet du volcan, saute sur un morceau de lave et exécute l'Eclat Céleste en visant le cube.
+* [x] [Après la quête de la récupération des objets ou même après le Temple Hylia] Dans la grotte à droite en arrivant au sommet du volcan, saute sur un morceau de lave et exécute l'Eclat Céleste en visant le cube.
 OU Après avoir visité le Temple d'Hylia (et reçu la bénédiction de la Déesse), approche-toi au maximum du bord et lance un Eclat Céleste sur le cube.
 Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia, il suffit de s'approcher au maximum du bord et lancer un Eclat Céleste sur le cube !
     * coffre sur une petite île au sud-ouest de l'Ile aux Chants
@@ -127,6 +127,6 @@ Pas besoin de faire l'épreuve du dragon de feu ni de passer par le Temple Hylia
 
 ### Gorges de Lanelle
 
-* [ ] Dans le nord-est de la région, près de l'arbre desséché
+* [x] Dans le nord-est de la région, près de l'arbre desséché
     * coffre sur une petite île au sud-ouest de l'Ile aux Chants
         * petit carquois
